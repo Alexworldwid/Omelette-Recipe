@@ -97,6 +97,7 @@ th, td {
 }
 footer {
     margin-bottom: 10px;
+    padding-bottom: 10px;
 }
 a {
     text-decoration: none;
